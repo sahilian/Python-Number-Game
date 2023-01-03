@@ -1,10 +1,3 @@
-# NumberGuessingGame
- You have 10 guess chance to guess the number between 1 to 100 which is generated randomly. Play with it. 
-# With database(database.txt) file.
-I created a database with txt file.For showing the last result.
+I created a database using a .txt file to display the last result. When you start the game for the first time, it will ask for your name and welcome you. When you finish the game, your score will be updated in the database.txt file.
 
-When you start the game first time it will ask your name and welcome you.When you finished your game youre score will be update into database.txt file.
-
-When you run it 2nd time it will ask you the name. If name = database update name then it will show the previous score.
-
-# Have fun.Hope you like it :)
+If you run the game a second time, it will ask for your name. If the name matches a name in the database, it will display the previous score.
